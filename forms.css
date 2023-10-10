@@ -1,0 +1,31 @@
+body{
+    background-image: url(background\ .jpg);
+}
+
+#go{
+    background-color: rgb(238, 185, 224);
+    height: 500px;
+    width: 500px;
+    position: relative;
+    left: 500px;
+    top: 90px;
+    border: 10px solid rgb(215, 16, 139);
+}
+.goo{
+    text-align: center;
+    color: rgb(21, 17, 17);
+}
+.ba{
+    border: none;
+    border-bottom: 3px solid black;
+    background-color: rgb(238, 185, 224);
+    position: absolute;
+    left: 120px;
+     width: 250px;
+}
+.bad{
+    background-color: rgb(238, 185, 224);
+    position: relative;
+    left: 220px;
+    top: 60px;
+}
